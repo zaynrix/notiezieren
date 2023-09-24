@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.tecvaley" "\0"
-            VALUE "FileDescription", "notienziert" "\0"
+            VALUE "FileDescription", "Noters" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "notienziert" "\0"
+            VALUE "InternalName", "Noters" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2023 com.tecvaley. All rights reserved." "\0"
             VALUE "OriginalFilename", "notienziert.exe" "\0"
-            VALUE "ProductName", "notienziert" "\0"
+            VALUE "ProductName", "Noters" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
