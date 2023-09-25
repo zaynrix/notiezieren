@@ -13,6 +13,7 @@ import 'package:notienziert/routing/routes.dart';
 import 'package:notienziert/utils/appConfig.dart';
 import 'package:provider/provider.dart';
 
+//  PR TEST
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
