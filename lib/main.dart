@@ -76,6 +76,7 @@ class MyApp extends StatelessWidget {
               value: sl<SettingProvider>(),
             ),
           ],
+          //
           child: MaterialApp(
             localizationsDelegates: context.localizationDelegates,
             supportedLocales: context.supportedLocales,
